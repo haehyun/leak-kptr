@@ -16,8 +16,8 @@ Our findings provide solid evidence for Linux kernel developers and security ana
 Paper: [[PDF]](https://haehyun.github.io/papers/leak-kptr-woot20.pdf)
 
 ``` tex
-@inproceedings{cho2020smokebomb,
-	title        = {{SmokeBomb: Effective Mitigation Against Cache Side-channel Attacks on the ARM Architecture}},
+@inproceedings{cho2020exploiting,
+	title        = {{Exploiting Uses of Uninitialized Stack Variables in Linux Kernels to Leak Kernel Pointers}},
 	author       = {Cho, Haehyun and Park, Jinbum and Kim, Donguk and Zhao, Ziming and Shoshitaishvili, Yan and Doup{\'e}, Adam and Ahn, Gail-Joon},
 	booktitle    = {In Proceedings of the 14th USENIX Workshop on Offensive Technologies (WOOT)},
 	month        = Aug,
