@@ -18,7 +18,7 @@ Paper: [[PDF]](https://haehyun.github.io/papers/leak-kptr-woot20.pdf)
 ``` tex
 @inproceedings{cho2020exploiting,
 	title        = {{Exploiting Uses of Uninitialized Stack Variables in Linux Kernels to Leak Kernel Pointers}},
-	author       = {Cho, Haehyun and Park, Jinbum and Kim, Donguk and Zhao, Ziming and Shoshitaishvili, Yan and Doup{\'e}, Adam and Ahn, Gail-Joon},
+	author       = {Cho, Haehyun and Park, Jinbum and Kang, Joonwon and Bao, Tiffany and Wang, Ruoyu and Shoshitaishvili, Yan and Doup{\'e}, Adam and Ahn, Gail-Joon},
 	booktitle    = {In Proceedings of the 14th USENIX Workshop on Offensive Technologies (WOOT)},
 	month        = Aug,
 	year         = 2020,
@@ -26,4 +26,4 @@ Paper: [[PDF]](https://haehyun.github.io/papers/leak-kptr-woot20.pdf)
 }
 ```
 
-For detail information on our tool, please refer the [[README]](https://github.com/sefcom/leak-kptr/blob/master/tool/README.md) file inthe tool directory.
+For detail information on our tool, please refer the [[README]](https://github.com/sefcom/leak-kptr/blob/master/tool/README.md) file in the tool directory.
